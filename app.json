@@ -1,0 +1,23 @@
+{
+  "name": "Flashlight",
+  "displayName": "Flashlight",
+  "extra": {
+    "eas": {
+      "projectId": "a5c08d66-f503-4878-8f8d-7144740ab5d5"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.samarasilvia81.flashlight"
+    },
+    "icon": "./assets/icons/icon.png",
+    "extra": {
+      "eas": {
+        "projectId": "a5c08d66-f503-4878-8f8d-7144740ab5d5"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.samarasilvia81.flashlight"
+    }
+  }
+}
